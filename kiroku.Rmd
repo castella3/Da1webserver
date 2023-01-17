@@ -1,6 +1,5 @@
 ---
 title: "研究記録"
-output: html_document
 ---
 
 ## 準備中

@@ -1,5 +1,5 @@
 ---
-title: 上村 大地 (Kamimura Daichi)
+title: "上村 大地 (Kamimura Daichi)"
 ---
 
 ```{r, echo=FALSE, out.width="30%", fig.cap=""}
